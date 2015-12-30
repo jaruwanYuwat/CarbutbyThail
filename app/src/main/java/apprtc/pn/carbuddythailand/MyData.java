@@ -10,21 +10,27 @@ public class MyData {
             "แจ้วเหตุฉุกเฉิน",
             "เหตุฉุกเฉิน",
             "กทม.",
+            "ปริมนฑล",
+            "ภาคกลาง"
 
     };
-
     //2# name
     public static  final String[] nameSTRINGS ={
-            "name1",
-            "name2",
-            "name3",
+            "สถานีตำรวจ",
+            "ไฟใหม้",
+            "โรงพยาบาล",
+            "โรงพยาบาล",
+            "โรงพยาบาล"
 
     };
 
     //3# Phon
     public static final String[] phonSTRINGS ={
-            "0914075073",
-            "191"
+            "119",
+            "022348847",
+            "10310",
+            "02594002065",
+            "056702015"
 
     };
 }     //Main Class
