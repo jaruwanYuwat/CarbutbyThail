@@ -17,6 +17,8 @@ public class MyData {
     public static  final String[] nameSTRINGS ={
             "name1",
             "name2",
+            "name3",
+
     };
 
     //3# Phon
